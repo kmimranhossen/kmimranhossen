@@ -35,7 +35,7 @@ Location: Bangladesh 🇧🇩
 
 Education: B.Sc. in Computer Science & Engineering
 
-Role: Full Stack Developer Learner
+Role: Full Stack Developer Learner , Cyber Security Learner
 
 Focus:
   - HTML
@@ -45,8 +45,7 @@ Focus:
   - Node.js
   - Express
   - MongoDB
-  - Cyber Security
-
+  
 Cyber Security:
   - Networking Fundamentals
   - Linux
