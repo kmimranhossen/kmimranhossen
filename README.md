@@ -47,6 +47,16 @@ Focus:
   - MongoDB
   - Cyber Security
 
+Cyber Security:
+  - Networking Fundamentals
+  - Linux
+  - Web Security (OWASP Top 10)
+  - Bug Bounty
+  - Ethical Hacking
+  - Penetration Testing
+  - Digital Forensics (Learning)
+  - Security Operations (SOC) (Learning)
+
 Goal:
   Become a Professional Software Engineer
 ```
