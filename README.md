@@ -1,114 +1,97 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0B1220,25:1E3A8A,50:2563EB,75:3B82F6,100:06B6D4&text=K%20M%20IMRAN%20HOSSEN&fontSize=52&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20Cyber%20Security%20Learner%20%7C%20CSE%20Student&descAlignY=60&descSize=18"/>
+
 # 👋 Hi, I'm K M Imran Hossen
 
-### 💻 CSE Student • 🌐 Full Stack Developer Learner • 🛡️ Cyber Security Learner
+### 💻 Full Stack Developer Learner • 🛡️ Cyber Security Learner • 🎓 CSE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Welcome+to+My+GitHub!;Full+Stack+Developer+Learner;Cyber+Security+Learner;Open+Source+Enthusiast;Always+Learning+New+Things"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub!;Building+Modern+Web+Applications;Learning+Cyber+Security;Open+Source+Enthusiast;Always+Learning+New+Technologies"/>
 
-<img src="https://komarev.com/ghpvc/?username=kmimranhossen&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kmimranhossen&label=Profile+Views&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/followers/kmimranhossen?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/kmimranhossen?affiliations=OWNER&style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cyber-Security-red?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science & Engineering Student
+```yaml
+Name: K M Imran Hossen
 
-🌱 Currently Learning
+Location: Bangladesh 🇧🇩
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git & GitHub
-- Linux
-- Cyber Security
+Education: B.Sc. in Computer Science & Engineering
 
-🎯 Goal
+Role: Full Stack Developer Learner
 
-Become a Professional Full Stack Developer & Cyber Security Professional.
+Focus:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Node.js
+  - Express
+  - MongoDB
+  - Cyber Security
+
+Goal:
+  Become a Professional Software Engineer
+```
 
 ---
 
-# ⚡ Tech Stack
+# 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,c,cpp,git,github,linux,vscode,figma,npm"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,python,c,cpp,git,github,linux,vscode,figma,npm"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 🛠 Tools
 
-<div align="center">
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kmimranhossen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,github,git,npm,figma,postman,mongodb,linux"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=kmimranhossen&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
-# 💻 Most Used Languages
+# 💻 Operating System
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmimranhossen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows"/>
 
-</div>
+<img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu"/>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmimranhossen&theme=tokyo-night"/>
-
-</div>
+</p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🤝 Open To Collaboration
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kmimranhossen&theme=tokyonight&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-# 🚀 Current Projects
-
-- 🌐 Personal Portfolio Website
-- 🛒 E-Commerce Website
-- 🔐 Authentication System
-- 🌦 Weather Application
-- 📱 Responsive Landing Pages
-- 🛡️ Cyber Security Notes
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master HTML & CSS
-- ✅ Master JavaScript
-- 🔄 Learn React
-- 🔄 Learn Node.js
-- 🔄 Learn Express.js
-- 🔄 Learn MongoDB
-- 🔄 Learn REST APIs
-- 🔄 Build 20+ Projects
-- 🔄 Contribute to Open Source
+- 🌍 Open Source Projects
+- 🌐 Web Development
+- 💻 Frontend Projects
+- ⚙ Backend Projects
+- 🔐 Cyber Security Projects
 
 ---
 
@@ -117,31 +100,25 @@ Become a Professional Full Stack Developer & Cyber Security Professional.
 <p align="center">
 
 <a href="https://github.com/kmimranhossen">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="https://www.linkedin.com/in/k-m-imran-hossen-/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="mailto:kmimranhossen1@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
-
-> **"First, solve the problem. Then, write the code." — John Johnson**
-
----
-
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+⭐ Thanks for Visiting My Profile ⭐
 
-### 💙 Code • Learn • Build • Repeat
+💙 Code • Learn • Build • Repeat
 
 </div>
