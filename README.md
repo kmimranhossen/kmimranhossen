@@ -110,6 +110,9 @@ Goal:
 <a href="mailto:kmimranhossen1@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+<a href="https://www.facebook.com/kmimranhossen0" target="_blank">
+  <img src="https://img.icons8.com/fluency/96/facebook-new.png" width="50" alt="Facebook"/>
+</a>
 
 </p>
 
